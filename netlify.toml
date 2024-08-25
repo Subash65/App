@@ -1,3 +1,3 @@
 [build]
-  functions = "api"
+  functions = "netlify/functions"
   publish = "public"
